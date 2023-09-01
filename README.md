@@ -102,7 +102,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> coming soon!
+[See Live](https://space-travelers-hub-575u.onrender.com/)
  
  Link to github repository. [Space-travelers](https://github.com/banzaman/Space-travelers)
 
